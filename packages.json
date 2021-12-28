@@ -1,0 +1,18 @@
+[
+    {
+        "package": "czso",
+        "url": "https://github.com/petrbouchal/czso"
+    },
+    {
+        "package": "statnipokladna",
+        "url": "https://github.com/petrbouchal/statnipokladna"
+    },
+    {
+        "package": "vsezved",
+        "url": "https://github.com/petrbouchal/vsezved"
+    },
+    {
+        "package": "purrrow",
+        "url": "https://github.com/petrbouchal/purrrow"
+    }
+]
