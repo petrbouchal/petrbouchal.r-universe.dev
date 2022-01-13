@@ -14,5 +14,9 @@
     {
         "package": "purrrow",
         "url": "https://github.com/petrbouchal/purrrow"
+    },
+    {
+        "package": "pragr",
+        "url": "https://github.com/petrbouchal/pragr"
     }
 ]
