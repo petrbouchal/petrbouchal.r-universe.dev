@@ -26,5 +26,9 @@
     {
         "package": "ispv",
         "url": "https://github.com/petrbouchal/ispv"
+    },
+    {
+        "package": "pointblankops",
+        "url": "https://github.com/petrbouchal/pointblankops"
     }
 ]
